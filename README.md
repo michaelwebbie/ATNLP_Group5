@@ -25,7 +25,7 @@ This repository includes:
 - A Jupyter notebook (`ATNLP_Group5_main.ipynb`) that runs all experiments end-to-end
 - Plots and aggregated accuracy reporting
 - `train.py` — Training loop with batching and gradient clipping  
-- `decoder.py` — Greedy decoding and oracle decoding  
+- `decoder.py` — Greedy decoding
 - `evaluate.py` — Evaluation functions for Exp1a/1b, Exp2, Exp3  
 - `metrics.py` — Token-level and sequence-level accuracy metrics  
 - `requirements.txt` — Python dependencies  
