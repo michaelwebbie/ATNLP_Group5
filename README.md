@@ -24,8 +24,8 @@ This repository includes:
 - Reproductions of SCAN Experiments 1a, 1b, 2, and 3
 - A Jupyter notebook (`ATNLP_Group5_main.ipynb`) that runs all experiments end-to-end
 - Plots and aggregated accuracy reporting
-- `train.py` — Training loop with batching and gradient clipping  
-- `decoder.py` — Greedy decoding
+- `train.py` — Training loop 
+- `decoder.py` — Greedy decoding at inference
 - `evaluate.py` — Evaluation functions for Exp1a/1b, Exp2, Exp3  
 - `metrics.py` — Token-level and sequence-level accuracy metrics  
 - `requirements.txt` — Python dependencies  
