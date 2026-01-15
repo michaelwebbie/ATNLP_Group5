@@ -59,7 +59,7 @@ The notebook includes:
 - **Experiment 2** — Length generalization  
 - **Experiment 3** — Primitive recombination (*jump*, *turn_left*) and compositional generalization  
 
-Additional experiments on experiment 1b and 2 are run from ``Assignment3_Michael_Webster.ipynb`
+Additional experiments on experiment 1b and 2 are run from `Assignment3_Michael_Webster.ipynb`
 
 This notebook includes
 - **Experiment 1b with T5-small finetuning (on the 1% split)**
